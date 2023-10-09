@@ -8,7 +8,7 @@ let turn = "X"
 
 //cajnge the turn other one
 const changeturn= ()=>{
-    return turn === "X"? "0": "X"
+    return turn === "X"? "O": "X"
 }
 
 //function to check win
